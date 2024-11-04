@@ -1,0 +1,25 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "?",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliceLemerre/ToDoList.git"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "ALice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AliceLemerre/ToDoList/issues"
+  },
+  "homepage": "https://github.com/AliceLemerre/ToDoList#readme",
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
