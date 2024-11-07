@@ -5,7 +5,7 @@ import nodemailer from 'nodemailer';
 const app: express.Application = express();
 const port: number = 3000;
 
-interface Task {
+interface Task { 
   title: string;
   description: string;
   id: number;
